@@ -9,3 +9,5 @@ Making this for fun. I'll be updating (pushing) here for every significant progr
 - [x] Game Over/Win screen
 - [x] Flags
 - [x] Auto clear/reveal cells with middle click (no idea what it's actually called)
+- [x] "New Game" button
+- [x] Timer
