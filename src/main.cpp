@@ -223,7 +223,8 @@ int main() {
     if (is_game_over) {
       DrawText("Game Over!", screen_width / 2 - 70, screen_height / 2, 40, RED);
     } else if (is_game_won) {
-      DrawText("You Win!", screen_width / 2 - 70, screen_height / 2, 40, GREEN);
+      // i think dark green makes it more legible
+      DrawText("You Win!", screen_width / 2 - 70, screen_height / 2, 40, DARKGREEN);
     }
 
     EndDrawing();
