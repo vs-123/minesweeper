@@ -186,6 +186,10 @@ int main() {
   Texture2D mine_texture = LoadTexture("assets/mine.png");
   Texture2D flag_texture = LoadTexture("assets/flag.png");
 
+  Image window_icon = LoadImage("assets/mine.png");
+  SetWindowIcon(window_icon);
+  UnloadImage(window_icon);
+
   bool is_mine_texture_loaded = (mine_texture.width > 0);
   bool is_flag_texture_loaded = (flag_texture.width > 0);
 
