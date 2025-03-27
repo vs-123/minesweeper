@@ -7,5 +7,5 @@ Making this for fun. I'll be updating (pushing) here for every significant progr
 ## Features (as of the last push)
 - [x] Reveal cells
 - [x] Game Over/Win screen
-- [ ] Flags
-- [ ] Auto clear cells with middle click (no idea what it's actually called)
+- [x] Flags
+- [x] Auto clear/reveal cells with middle click (no idea what it's actually called)
