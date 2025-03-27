@@ -15,4 +15,4 @@ Making this for fun. I'll be updating (pushing) here for every significant progr
 - [x] Icons
 - [x] Coloured & Bolded Numbers
 
-![Screenshot](http://github.com/vs-123/minesweeper/blob/main/assets/screenshot.png)
+![Screenshot](http://github.com/vs-123/minesweeper/blob/main/assets/screenshot.png?raw=true)
